@@ -1,2 +1,4 @@
-## Hello my name is shahid
-I will keep all my clg programs here
+## Hello My Name is Shahid Dhariwala
+I will Keep My college and Self Made Practice Programs Here
+feel Free to Contribute 
+:)
